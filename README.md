@@ -2,8 +2,6 @@ Tkinter Calculator 🧮
 
 A modern, responsive, and easy-to-use calculator built with Python and Tkinter. This calculator features a clean UI with themed buttons, keyboard support, and essential mathematical operations.
 
- (Replace with an actual screenshot!)
-
 ✨ Features
 
 ✅ User-Friendly Interface – Sleek design with a modern ttkthemes style.
@@ -43,7 +41,7 @@ Press Backspace to delete the last character.
 Press C to clear the entire input.
 
 🎨 Screenshot
-
+https://github.com/csirhall/tkinter-calculator/blob/main/CalculatorApp.png
 
 
 🚀 Future Enhancements (Optional)
