@@ -1,22 +1,21 @@
 Tkinter Calculator 🧮
 
-A modern, responsive, and easy-to-use calculator built with Python and Tkinter. This calculator features a clean UI with themed buttons, keyboard support, and essential mathematical operations.
-
+A modern, responsive, and easy-to-use calculator built with Python and Tkinter. This calculator features a clean UI with themed buttons, keyboard support, calculation history, and essential mathematical operations.
 ✨ Features
 
-✅ User-Friendly Interface – Sleek design with a modern ttkthemes style.
-✅ Basic Arithmetic – Supports addition, subtraction, multiplication, and division.
-✅ Keyboard Support – Enter numbers and operations directly using your keyboard.
-✅ Percentage & Negation – Includes % and ± for quick calculations.
-✅ Backspace Functionality – Press Backspace to remove the last character.
-✅ Error Handling – Displays "Error" for invalid expressions instead of crashing.
-
+  ✅ User-Friendly Interface – Sleek design with modern ttkthemes style
+  ✅ Basic Arithmetic – Supports addition, subtraction, multiplication, and division
+  ✅ Keyboard Support – Use your keyboard for fast input
+  ✅ Percentage & Negation – Quickly apply % and ±
+  ✅ Backspace Functionality – Press Backspace to remove the last character
+  ✅ Error Handling – Displays "Error" for invalid input
+  ✅ Calculation History – Scrollable view of recent calculations
+  ✅ Theme Switcher – Easily toggle between light/dark modes
+  
 🛠️ Installation
-
 Prerequisites
 
 Ensure you have Python 3.x installed.
-
 Step 1: Clone the Repository
 
 git clone https://github.com/yourusername/tkinter-calculator.git
@@ -32,27 +31,27 @@ python calculator.py
 
 🖥️ Usage
 
-Click on the buttons or use your keyboard to enter numbers and operators.
+    Click on buttons or use your keyboard to enter numbers and operations
 
-Press Enter to calculate the result.
+    Press Enter to calculate
 
-Press Backspace to delete the last character.
+    Press Backspace to delete the last character
 
-Press C to clear the entire input.
+    Press C to clear all
+
+    View recent calculations in the history panel
+
+    Switch themes using the dropdown at the top
 
 🎨 Screenshot
-https://github.com/csirhall/tkinter-calculator/blob/main/CalculatorApp.png
 
+Calculator Screenshot
+🚀 Future Enhancements
 
-🚀 Future Enhancements (Optional)
-
-🔹 Add a history feature to track previous calculations.🔹 Implement a dark mode toggle for better visibility.🔹 Improve UI responsiveness for different screen sizes.
-
+🔹 Memory functions (MC, MR, M+)
+🔹 Scientific calculator mode
+🔹 Drag-and-resize UI
+🔹 Sound or vibration feedback
 👨‍💻 Contributing
 
-Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
-
-📜 License
-
-This project is licensed under the MIT License.
-
+Contributions are welcome! Fork the repo, improve the project, and submit a pull request.
